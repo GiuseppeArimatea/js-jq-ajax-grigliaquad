@@ -1,0 +1,27 @@
+.quadrato {
+  height: 100px;
+  width:100px;
+  background: red;
+  margin:2px;
+  display: inline-block;
+  cursor: pointer;
+  line-height: 100px;
+  border: 1px solid black;
+  text-align: center;
+}
+.yellow {
+  background: yellow;
+}
+.green {
+  background: green;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 636px;
+  margin: 0 auto;
+  border: 2px solid black;
+  padding: 100px;
+  background: black;
+}
